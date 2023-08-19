@@ -5,5 +5,5 @@ this is a demo for git and github.
 shradha khapra
 
 # student
-sougandh 
+sougandh manoj
 
